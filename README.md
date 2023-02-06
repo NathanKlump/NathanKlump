@@ -1,1 +1,1 @@
-<img align="right" alt="coding" width="600" src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif"/>![image](https://user-images.githubusercontent.com/98673875/217113363-1d7c57fd-5999-4d8f-9a9c-192f9b909885.png)
+<img align="right" alt="coding" width="600" src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif"/>
