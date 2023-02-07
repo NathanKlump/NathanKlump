@@ -1,5 +1,5 @@
-<img align="right" alt="coding" width="900" src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif"/>
-<h1 align="center">Hi 👋, I'm Nathaniel Klump</h1>
+<img align="right" alt="coding" width="1000" src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif"/>
+<h1 align="center">I'm Nathaniel Klump</h1>
 <h3 align="center">Just a guy being a dude.</h3>
 
 <h3 align="left">Connect with me:</h3>
